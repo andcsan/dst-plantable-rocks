@@ -1,0 +1,11 @@
+name = "Plantable Rocks"
+description = "This mod adds a new action to rocks, making possible to plant them like any plantable item. When used with Geometric Placement mod, it allows you to create better decorations."
+author = "andre"
+version = "1.0.0"
+icon_atlas = ""
+icon = ""
+dont_starve_compatible = false
+dst_compatible = true
+client_only_mod = false
+all_clients_require_mod = true
+api_version = 10
